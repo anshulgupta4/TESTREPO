@@ -2,7 +2,7 @@
  *@NApiVersion 2.x
  *@NScriptType Suitelet
  *@NModuleScope public
- * testing ns files
+ * testing ns files for testing
  */
 
 /*
