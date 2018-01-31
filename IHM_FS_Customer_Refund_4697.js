@@ -2,7 +2,7 @@
  *@NApiVersion 2.x
  *@NScriptType Suitelet
  *@NModuleScope public
- * anshul
+ * testing ns files
  */
 
 /*
