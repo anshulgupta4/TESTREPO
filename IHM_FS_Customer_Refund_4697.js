@@ -2,6 +2,7 @@
  *@NApiVersion 2.x
  *@NScriptType Suitelet
  *@NModuleScope public
+ *
  */
 
 /*
