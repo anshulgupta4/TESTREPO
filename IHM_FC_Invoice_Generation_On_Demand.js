@@ -2,7 +2,7 @@
 *@NApiVersion 2.x.1
 *@NScriptType ClientScript
 */
-
+//FOR DEMO on FRIDAY
 /*
 FRICE ID            : E-024 Invoice Generation
 Name                : IHM_FC_Invoice_Generation_On_Demand.js
