@@ -4,7 +4,7 @@
  *@NModuleScope public
  * 
  */
-//LALALA VICS
+//AJAY MANCHALA
 //THis has been reviewed
 
 /*
@@ -19,7 +19,7 @@ Saved Searches      : customsearch_unapplied_payment_amount
 
 define(['N/ui/serverWidget', 'N/record', 'N/search', 'N/format', '/.bundle/176344/Log_Handler.js', 'N/file'],
     function (ui, record, search, format, errorHandler, file) {
-
+		var email = "dd@netsuite.com";
         // File Constants
         var FILE_CONSTANT = {
         	PAGE_SIZE : 25,	
