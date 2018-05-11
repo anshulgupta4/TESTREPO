@@ -1,1 +1,1 @@
-{"name":"deloitte","location":"hyd"}
+{"name":"deloitte","servicline":"DD","location":"hyd"}
