@@ -30,6 +30,7 @@ or implied, of Chas Emerick.
 var b1 = 1;
 b1 = 2;
 var val1 = {};
+var files = [];
 var diffview = {
 	/**
 	 * Builds and returns a visual diff view.  The single parameter, `params', should contain
