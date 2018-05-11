@@ -28,6 +28,7 @@ authors and should not be interpreted as representing official policies, either 
 or implied, of Chas Emerick.
 */
 var val1 = {};
+
 var diffview = {
 	/**
 	 * Builds and returns a visual diff view.  The single parameter, `params', should contain
