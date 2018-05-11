@@ -1,1 +1,1 @@
-{"name":"deloitte"}
+{"name":"deloitte","location":"hyd"}
